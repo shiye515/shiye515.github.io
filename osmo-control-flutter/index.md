@@ -7,7 +7,7 @@ repository_url: https://github.com/shiye515/osmo-control-flutter
 
 [back](../)
 
-![icon](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/f5/c5/e8f5c5c1-4bd1-57f4-53c8-00cc51166965/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200ia-75.webp)
+![icon](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/55/cd/4455cdd3-7fc4-af8d-1b90-f94448c851df/Placeholder.mill/360x360bb.png)
 
 ## links
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
