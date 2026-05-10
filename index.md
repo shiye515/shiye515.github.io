@@ -13,6 +13,10 @@ repository_url: https://github.com/shiye515/shiye515.github.io
 
 ![1](./osmo-control-flutter/assets/IMG_0006.PNG)
 
+# [hhai](./hhai)
+
+一个面向 iPhone 的 AI 资讯阅读客户端，内容来自数字生命卡兹克的精选 feed。
+
 # [clock](./clock)
 
 一个Osmo Action系列的遥控
