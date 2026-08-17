@@ -17,6 +17,22 @@ repository_url: https://github.com/shiye515/shiye515.github.io
 
 一个面向 iPhone 的 AI 资讯阅读客户端，内容来自数字生命卡兹克的精选 feed。
 
+# [JoyCoding](./joycoding)
+
+一个原生 macOS 菜单栏应用：把游戏手柄按键映射为键盘按键或快捷键，让手柄更自然地服务于游戏、演示、媒体控制和个人工作流。
+
+![1](https://raw.githubusercontent.com/shiye515/JoyCoding/main/docs/screenshot.png)
+
+# [AudiobookMaker](./audiobookmaker)
+
+把 EPUB 转成带章节、封面和完整元数据的 M4B 有声书，所有处理都在 Mac 本地完成。
+
+![1](https://raw.githubusercontent.com/shiye515/AudiobookMaker/main/docs/design-reference.svg)
+
+# [r2-temp](./r2-temp)
+
+临时文件服务：客户端直接上传到私有 R2，并拿到 24 小时有效的签名下载 URL。
+
 # [clock](./clock)
 
 一个Osmo Action系列的遥控
