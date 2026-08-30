@@ -29,6 +29,10 @@ repository_url: https://github.com/shiye515/shiye515.github.io
 
 ![1](https://raw.githubusercontent.com/shiye515/AudiobookMaker/main/docs/design-reference.svg)
 
+# [Godot Cartesian](./godot-cartesian)
+
+一款黑板风坐标系跳跃游戏：用蓄力抛物线围出面积，追逐更高分与更深的数学感。
+
 # [r2-temp](./r2-temp)
 
 临时文件服务：客户端直接上传到私有 R2，并拿到 24 小时有效的签名下载 URL。
