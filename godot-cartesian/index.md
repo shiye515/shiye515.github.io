@@ -2,7 +2,6 @@
 layout: default
 title: Godot Cartesian
 description: 黑板风坐标系跳跃游戏，适用于 Mac App Store 上架元数据和隐私说明
-repository_url: /Users/shiye/work/godot-cartesian
 ---
 
 [back](../)
