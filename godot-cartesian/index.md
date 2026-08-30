@@ -87,9 +87,9 @@ Start from a box, finish on a reciprocal curve. The blackboard awaits.
 ### App Privacy
 
 - App Privacy Labels: No Data Collected
-- Privacy Policy: See [privacy-policy](./privacy-policy)
+- Privacy Policy: See [privacy-policy](./privacy-policy.html)
 
 ### links
 
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
-- [privacy-policy](./privacy-policy)
+- [privacy-policy](./privacy-policy.html)
