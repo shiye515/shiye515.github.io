@@ -26,9 +26,9 @@ repository_url: https://github.com/shiye515/AudiobookMaker
 
 - [GitHub](https://github.com/shiye515/AudiobookMaker)
 - [Releases](https://github.com/shiye515/AudiobookMaker/releases/latest)
-- [privacy-policy](./privacy-policy)
+- [privacy-policy](./privacy-policy.html)
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
 
 ### 隐私政策
 
-见 [privacy-policy](./privacy-policy)
+见 [privacy-policy](./privacy-policy.html)

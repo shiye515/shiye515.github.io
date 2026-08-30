@@ -26,8 +26,8 @@ JoyCoding 是一个原生 macOS 菜单栏应用：把游戏手柄按键映射为
 - [GitHub](https://github.com/shiye515/JoyCoding)
 - [Releases](https://github.com/shiye515/JoyCoding/releases)
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
-- [privacy-policy](./privacy-policy)
+- [privacy-policy](./privacy-policy.html)
 
 ### 隐私政策
 
-见 [privacy-policy](./privacy-policy)
+见 [privacy-policy](./privacy-policy.html)

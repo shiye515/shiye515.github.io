@@ -23,8 +23,8 @@ repository_url: https://github.com/shiye515/hhai
 
 - [GitHub](https://github.com/shiye515/hhai)
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
-- [privacy-policy](./privacy-policy)
+- [privacy-policy](./privacy-policy.html)
 
 ### 隐私政策
 
-见 [privacy-policy](./privacy-policy)
+见 [privacy-policy](./privacy-policy.html)

@@ -25,8 +25,8 @@ repository_url: https://github.com/shiye515/r2-temp
 - [API 文档](https://github.com/shiye515/r2-temp/blob/main/docs/api.md)
 - [私有化部署指南](https://github.com/shiye515/r2-temp/blob/main/docs/self-hosting.zh.md)
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
-- [privacy-policy](./privacy-policy)
+- [privacy-policy](./privacy-policy.html)
 
 ### 隐私政策
 
-见 [privacy-policy](./privacy-policy)
+见 [privacy-policy](./privacy-policy.html)

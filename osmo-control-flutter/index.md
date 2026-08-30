@@ -11,6 +11,6 @@ repository_url: https://github.com/shiye515/osmo-control-flutter
 
 ## links
 - [feedback](https://github.com/shiye515/shiye515.github.io/issues)
-- [privacy-policy](./privacy-policy)
+- [privacy-policy](./privacy-policy.html)
 
 ![1](./assets/IMG_0006.PNG)
