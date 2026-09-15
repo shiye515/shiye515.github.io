@@ -33,7 +33,7 @@ repository_url: https://github.com/shiye515/shiye515.github.io
 
 把 EPUB 转成带章节、封面和完整元数据的 M4B 有声书，所有处理都在 Mac 本地完成。
 
-![1](https://raw.githubusercontent.com/shiye515/AudiobookMaker/main/docs/design-reference.svg)
+![1](https://raw.githubusercontent.com/shiye515/AudiobookMaker/main/docs/screenshots/model.png)
 
 # [Godot Cartesian](./godot-cartesian)
 
