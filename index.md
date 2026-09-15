@@ -5,6 +5,12 @@ description: 开源项目集合
 repository_url: https://github.com/shiye515/shiye515.github.io
 ---
 
+# [AudiobookMaker](./audiobookmaker)
+
+把 EPUB / 文本转成本地有声书的 macOS 应用：按目录节级拆章节，使用 CosyVoice3 在本机批量合成，并导出带章节的 M4B，适合同步到 iPhone 的 Books 中收听。
+
+![1](https://raw.githubusercontent.com/shiye515/AudiobookMaker/main/docs/screenshots/library.png)
+
 # [osmo-control-flutter](./osmo-control-flutter)
 
 一个Osmo Action系列的遥控
